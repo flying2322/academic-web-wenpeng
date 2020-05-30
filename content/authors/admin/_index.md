@@ -67,8 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Ni Hao~Konnichiwa~
+Ni Hao~Konnichiwa~Welcome to my space, I am Wenpeng Li, a graduate Student in Tsinghua University. My major is Logistics Engineering. I will get my master degree in July 2021 as planned. My research interests include Operation Research, Logistics Engineering and Computer Science.  
 
-Welcome to my space~ I am Wenpeng Li, a graduate Student in Tsinghua University. My major is logistics engineering.I will get my master degree in July 2021 as planned. My research interests include Operation Research, Logistics Engineering and Computer Science.  
-
-I am an optimistic person, warm-hearted, easy-going and rich in curiosity. I am energetic and enthusiastic. I will serve my entire PhD career to Research, I am fond of Software Programming and Paper writing. Academic Research is my life.
+I am an optimistic person, warm-hearted, easy-going and rich in curiosity. I am energetic and enthusiastic. I will serve my entire PhD career to Research, I am fond of Software Programming and Paper writing. Academic Research makes me happy every day. 
