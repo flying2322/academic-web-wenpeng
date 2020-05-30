@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Wenpeng Li
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate of Operation Research
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Tsinghua University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
