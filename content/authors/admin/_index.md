@@ -70,6 +70,6 @@ email: "flying2327@gmail.com"
 #- Visitors
 ---
 
-Ni Hao~Konnichiwa~Welcome to my space, I am Wenpeng Li, a graduate Student in Tsinghua University, majored in Logistics Engineering. I will get my master degree in July 2021. My research interests is focused on Optimization which include Operation Research, Logistics Engineering and Computer Science.  
+Welcome to my space~ I am Wenpeng Li, a second-year master graduate Student in the Industrial Engineering Department of Tsinghua University.  My major is Logistics Engineering. I will get my master degree in July 2021. My research interests is focused on Optimization which include Operations Research, Logistics Engineering and Computer Science.  
 
-I am an optimistic person, warm-hearted, easy-going and rich in curiosity. I am energetic and enthusiastic. I will serve my PhD career to academic Research in optimization. I am fond of Software Programming and Paper writing. I like the philosophy of gradually achieving something. 
+I am an optimistic person, warm-hearted, easy-going and rich in curiosity. I am energetic and enthusiastic. I wish I can serve my PhD career to academic Research in optimization. I am fond of Software Programming and Paper writing. I like the philosophy of gradually achieving something. 
