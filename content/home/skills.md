@@ -44,7 +44,7 @@ subtitle = ""
  [[feature]]
   icon = "beach-sunset"
   icon_pack = "custom"
-  name = "Surfing"
+  name = "Cpp"
   description = "90%"
 
 +++
