@@ -15,7 +15,7 @@ role: Master student of Logistics engineering
 # Organizations/Affiliations
 organizations:
 - name: Tsinghua University
-  url: ""
+  url: "https://www.tsinghua.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Operation Research, Queue Theory and Cellular Automaton.
