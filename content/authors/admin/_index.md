@@ -20,11 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Operation Research, Queue Theory and Cellular Automaton.
 
-interests:
 #- Warehouse performance modeling and evaluation
+#- Logistics and transportation optimization
+interests:
 - Operations Research
 - Logistics engineering
-#- Logistics and transportation optimization
 - Queue Theory
 - Cellular automaton
 
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Ni Hao~Konnichiwa~Welcome to my space, I am Wenpeng Li, a graduate Student in Tsinghua University. My major is Logistics Engineering. I will get my master degree in July 2021 as planned. My research interests include Operation Research, Logistics Engineering and Computer Science.  
+Ni Hao~Konnichiwa~Welcome to my space, I am Wenpeng Li, a graduate Student in Tsinghua University. My major is Logistics Engineering. I will get my master degree in July 2021. My research interests include Operation Research, Logistics Engineering and Computer Science.  
 
 I am an optimistic person, warm-hearted, easy-going and rich in curiosity. I am energetic and enthusiastic. I will serve my PhD career to academic Research in optimization. I am fond of Software Programming and Paper writing. I like the philosophy of gradually sccomplishing something. 
