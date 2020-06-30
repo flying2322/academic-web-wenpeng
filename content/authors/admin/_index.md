@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate of Operation Research
+role: Master student of Logistics engineering
 
 # Organizations/Affiliations
 organizations:
