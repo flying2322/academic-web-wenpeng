@@ -21,9 +21,11 @@ organizations:
 bio: My research interests include Operation Research, Queue Theory and Cellular Automaton.
 
 interests:
-- Operation Research
-- Logistics Engineering
+- Warehouse performance modeling and evaluation
+- Operations Research
+- Logistics and transportation optimization
 - Queue Theory
+- Cellular automaton
 
 education:
   courses:
@@ -47,7 +49,7 @@ social:
   link: https://twitter.com/flying232
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://myaccount.google.com/?hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/flying2322
@@ -69,4 +71,4 @@ user_groups:
 
 Ni Hao~Konnichiwa~Welcome to my space, I am Wenpeng Li, a graduate Student in Tsinghua University. My major is Logistics Engineering. I will get my master degree in July 2021 as planned. My research interests include Operation Research, Logistics Engineering and Computer Science.  
 
-I am an optimistic person, warm-hearted, easy-going and rich in curiosity. I am energetic and enthusiastic. I will serve my entire PhD career to Research, I am fond of Software Programming and Paper writing. Academic Research makes me happy every day. 
+I am an optimistic person, warm-hearted, easy-going and rich in curiosity. I am energetic and enthusiastic. I will serve my PhD career to academic Research in optimization. I am fond of Software Programming and Paper writing. I like the philosophy of gradually sccomplishing something. 
