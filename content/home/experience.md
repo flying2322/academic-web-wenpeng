@@ -24,13 +24,12 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2015-07-01"
   date_end = "2016-07-10"
-  description = """Various manufacturing practices to achieve an economical value
-  Responsibilities include:
- *  Various manufacturing practices to achieve an economical value
- *  Research and development of Tool, process and its design.
- *  Computer Aided Design/CAM
- *  Production engineering
- * Quality controlS
+  description = """Responsibilities include:
+ *  Design arrangement of machines within plant facilities to ensure most efficient and productive layout
+ *  Train lower-level Manufacturing Engineers
+ *  Adapt machine or equipment design to factory and production conditions
+ *  Identify, organize, and lead teams to resolve production and product issues
+ *  Computer Aided Design/CAM and Manufacturing Execution System(EMS)
   """
 
  # [[experience]]
