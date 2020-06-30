@@ -61,7 +61,7 @@ social:
  #  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "flying2327@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Ni Hao~Konnichiwa~Welcome to my space, I am Wenpeng Li, a graduate Student in Tsinghua University. My major is Logistics Engineering. I will get my master degree in July 2021. My research interests include Operation Research, Logistics Engineering and Computer Science.  
+Ni Hao~Konnichiwa~Welcome to my space, I am Wenpeng Li, a graduate Student in Tsinghua University, majored in Logistics Engineering. I will get my master degree in July 2021. My research interests is focused on Optimization which include Operation Research, Logistics Engineering and Computer Science.  
 
-I am an optimistic person, warm-hearted, easy-going and rich in curiosity. I am energetic and enthusiastic. I will serve my PhD career to academic Research in optimization. I am fond of Software Programming and Paper writing. I like the philosophy of gradually sccomplishing something. 
+I am an optimistic person, warm-hearted, easy-going and rich in curiosity. I am energetic and enthusiastic. I will serve my PhD career to academic Research in optimization. I am fond of Software Programming and Paper writing. I like the philosophy of gradually achieving something. 
