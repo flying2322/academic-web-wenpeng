@@ -24,13 +24,13 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2015-07-01"
   date_end = "2016-07-10"
-  description = ""Various manufacturing practices to achieve an economical value
+  description = """Various manufacturing practices to achieve an economical value
   Responsibilities include:
  *  Various manufacturing practices to achieve an economical value
  *  Research and development of Tool, process and its design.
  *  Computer Aided Design/CAM
  *  Production engineering
- * Quality control
+ * Quality controlS
   """
 
  # [[experience]]
