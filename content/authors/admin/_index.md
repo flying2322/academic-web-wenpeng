@@ -70,6 +70,6 @@ email: "flying2327@gmail.com"
 #- Visitors
 ---
 
-Welcome to my space~ I am Wenpeng Li, a second-year master graduate Student in the Industrial Engineering Department of Tsinghua University.  My major is Logistics Engineering. I will get my master degree in July 2021. My research interests is focused on Optimization which include Operations Research, Logistics Engineering and Computer Science.  
+Welcome to my space~ This is Dominic Li(Wenpeng Li in Chinese), a software algorithm developer in a startup company in Shenzhen, China. Before I joined this company, I am a graduate Student(master) in the Industrial Engineering Department of Tsinghua University.  My major is Logistics Engineering. My interests is mainly about Optimization in warehouse, which include Operations Research about order picking, MAPF and equipment scheduling system.  
 
-I am an optimistic person, warm-hearted, easy-going and rich in curiosity. I am energetic and enthusiastic. I wish I can serve my PhD career to academic Research in optimization. I am fond of Software Programming and Paper writing. I like the philosophy of gradually achieving something. 
+I am an optimistic person, warm-hearted, easy-going and rich in curiosity. I am fond of Software Programming and OR mathematic models. I like the philosophy of gradually achieving something meaningful. 
